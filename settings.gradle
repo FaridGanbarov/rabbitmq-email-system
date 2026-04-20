@@ -1,0 +1,5 @@
+rootProject.name = 'rabbitmq-email-system'
+
+include 'producer-service'
+include 'consumer-service'
+include 'common'
